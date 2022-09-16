@@ -6,10 +6,10 @@
 *-*
 i like coding, i like cats, i like cars, and i like playing games.
 *-*
-Projects I have made: 16
-Number of cats I have petted: 9
-Number of cars I like: 7
-Games I have played in my lifetime: 112 (estimate)
+*Projects I have made: 16
+*Number of cats I have petted: 9
+*Number of cars I like: 7
+*Games I have played in my lifetime: 112 (estimate)
 
 Skills: Lua, HTML, CSS, Adobe PS and Illustrator, Python, SQL, a little of bash, and C++.
 
