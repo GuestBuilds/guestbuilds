@@ -6,14 +6,14 @@
 *-*
 i like coding, i like cats, i like cars, and i like playing games.
 *-*
-* Projects I have made: 16
-* Number of cats I have petted: 9
-* Number of cars I like: 7
-* Games I have played in my lifetime: 112 (estimate)
+* Projects I have made: 20
+* Number of cats I have petted: 36
+* Number of cars I like: 12
+* Games I have played in my lifetime: 120 (estimate)
 
 Skills: Lua, HTML, CSS, Adobe PS and Illustrator, Python, SQL, a little of bash, and C++.
 
-- 🔭 I’m currently working on an fps game on unity. 
+- 🔭 I’m currently working on a game on unity. 
 - 🌱 I’m currently learning binary :sunglasses: (im not, its ass) 
 - 🤔 I’m looking for help with drawing good thumbnails and 3D modelling. 
 
